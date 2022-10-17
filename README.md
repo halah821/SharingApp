@@ -3,6 +3,14 @@
 <br />
 My Accomplishments:<br />
 <br />
+https://coursera.org/share/7acd671f3c5802c86c5108b6976a12f3<br />
+<br />
+Module 4<br />
+Service-Oriented Architecture<br />
+University of Alberta<br />
+Grade Achieved: 95%<br />
+https://coursera.org/share/73f767d5ed56228fffac9d56fe737e14<br />
+<br />
 Module 3<br />
 Software Architecture<br />
 University of Alberta<br />

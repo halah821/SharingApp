@@ -13,7 +13,7 @@ Practical examples and opportunities to apply your knowledge will help you devel
 
 17 weeks - 84 hours
 
-Certificate:  [[https://www.coursera.org/account/accomplishments/specialization/36F9SHJ2BQKZ](https://www.coursera.org/account/accomplishments/specialization/36F9SHJ2BQKZ)](https://coursera.org/share/7acd671f3c5802c86c5108b6976a12f3)
+Certificate:  [https://www.coursera.org/account/accomplishments/specialization/36F9SHJ2BQKZ](https://coursera.org/share/7acd671f3c5802c86c5108b6976a12f3)
 
 ### [Course 1: Object-Oriented Design](https://github.com/cardosop/Software-Design-and-Architecture#course-1-object-oriented-design)
 

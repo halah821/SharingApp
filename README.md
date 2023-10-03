@@ -31,7 +31,7 @@ After completing this course, you will be able to: • Apply the Class Responsib
 
 4 weeks of study, 5 - 8 hours/week
 
-Certificate:  [[https://www.coursera.org/account/accomplishments/verify/T534ZS2FDEQ5](https://www.coursera.org/account/accomplishments/verify/T534ZS2FDEQ5)](https://www.coursera.org/account/accomplishments/verify/VC8VKPP77V98)
+Certificate:  [https://www.coursera.org/account/accomplishments/verify/T534ZS2FDEQ5](https://www.coursera.org/account/accomplishments/verify/VC8VKPP77V98)
 
 ### [Course 2: Design Patterns](https://github.com/cardosop/Software-Design-and-Architecture#course-2-design-patterns)
 
@@ -45,7 +45,7 @@ After completing this course, you will be able to: • Demonstrate how to use de
 
 4 weeks of study, 5-8 hours/week
 
-Certificate:  [[https://www.coursera.org/account/accomplishments/verify/FFVZHYH4FVUA](https://www.coursera.org/account/accomplishments/verify/FFVZHYH4FVUA)](https://www.coursera.org/account/accomplishments/verify/KKHMTPT4BKY9)
+Certificate:  [https://www.coursera.org/account/accomplishments/verify/FFVZHYH4FVUA](https://www.coursera.org/account/accomplishments/verify/KKHMTPT4BKY9)
 ### [Course 3: Software Architecture](https://github.com/cardosop/Software-Design-and-Architecture#course-3-software-architecture)
 
 [https://www.coursera.org/learn/software-architecture](https://www.coursera.org/learn/software-architecture)
@@ -58,7 +58,7 @@ After completing this course, you will be able to: • Compare and contrast the 
 
 4 weeks of study, 5-8 hours/week
 
-Certificate:  [[[https://www.coursera.org/account/accomplishments/verify/KQXEXSJNKKL6](https://www.coursera.org/account/accomplishments/verify/KQXEXSJNKKL6)](https://www.coursera.org/account/accomplishments/verify/AEMAUKDL82DC)
+Certificate:  [https://www.coursera.org/account/accomplishments/verify/KQXEXSJNKKL6](https://www.coursera.org/account/accomplishments/verify/AEMAUKDL82DC)
 ### [Course 4: Service-Oriented Architecture](https://github.com/cardosop/Software-Design-and-Architecture#course-4-service-oriented-architecture)
 
 [https://www.coursera.org/learn/service-oriented-architecture](https://www.coursera.org/learn/service-oriented-architecture)
@@ -76,7 +76,7 @@ After completing this course, you will be able to: • Describe SOA (Service-Ori
 
 4 weeks of study, 5-8 hours/week
 
-Certificate:  [[[https://www.coursera.org/account/accomplishments/verify/RYUMJFB4U9VE](https://coursera.org/share/73f767d5ed56228fffac9d56fe737e14)](https://coursera.org/share/73f767d5ed56228fffac9d56fe737e14)
+Certificate:  [https://coursera.org/share/73f767d5ed56228fffac9d56fe737e14](https://coursera.org/share/73f767d5ed56228fffac9d56fe737e14)
 
 # SharingApp
  <a href="https://www.coursera.org/specializations/software-design-architecture" rel="nofollow">Software Design and Architecture offered by University of Alberta</a> on <a href="https://www.coursera.org" rel="nofollow">Coursera</a>.</p>
